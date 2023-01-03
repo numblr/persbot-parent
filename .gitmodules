@@ -46,3 +46,7 @@
 	path = cltl-emissor-data
 	url = https://github.com/leolani/cltl-emissor-data.git
 	branch = main
+[submodule "persbot"]
+	path = persbot
+	url = https://github.com/Morita95/Persbot-Leolani.git
+	branch = main
