@@ -42,3 +42,7 @@
 	path = emissor
 	url = https://github.com/leolani/emissor.git
 	branch = main
+[submodule "cltl-emissor-data"]
+	path = cltl-emissor-data
+	url = https://github.com/leolani/cltl-emissor-data.git
+	branch = main
