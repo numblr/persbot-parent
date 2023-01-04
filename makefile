@@ -1,6 +1,6 @@
 SHELL = /bin/bash
 
-project_name ?= "cltl-eliza"
+project_name ?= "hi-persbot"
 
 project_components = $(addprefix ${project_root}/, \
 		emissor \
