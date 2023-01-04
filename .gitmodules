@@ -50,3 +50,7 @@
 	path = persbot
 	url = https://github.com/Morita95/Persbot-Leolani.git
 	branch = main
+[submodule "persbot-app"]
+	path = persbot-app
+	url = https://github.com/numblr/persbot-app.git
+	branch = main
